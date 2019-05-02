@@ -1,0 +1,6 @@
+turn on, open, on, clean, wash, start, charging, charge
+turn off, close, off, stop, not
+temperature, temp
+battery, electrical
+bake
+broil

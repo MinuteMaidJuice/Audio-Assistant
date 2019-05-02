@@ -1,0 +1,9 @@
+dyson, heater, heat, cold, hot
+bryant, cooler, cool, hot, cold
+rheem, tank, water
+roomba, robot, clearner, clean, vacuum
+tesla, car, vehicle, drive
+washer, wash, laundry, water
+dryer, dry, laundry, water
+baker, bake, broiler, broil, oven, kenmore
+dishwasher, washer, kenmore, dish, dishes, water

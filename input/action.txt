@@ -1,0 +1,8 @@
+turn on, open, on, clean, cleaner, vacuum, wash
+turn off, close, off
+temperature, temp
+sche, schedule
+charge, recharge
+battery, electrical
+bake
+broil

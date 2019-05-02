@@ -1,0 +1,6 @@
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+For all available time we checked, 
+current time is the least cost one.
